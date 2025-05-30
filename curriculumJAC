@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Currículum de Jesús Altamirano Carrillo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #004085;
+    }
+    .profile-img {
+      float: right;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 2px solid #004085;
+    }
+    .clear {
+      clear: both;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <img src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/216191.png" alt="Foto de Jesús Altamirano Carrillo" class="profile-img">
+  
+  <h1>Jesús Altamirano Carrillo</h1>
+  <h2>Desarrollador de Software</h2>
+  <p><strong>Especialidad:</strong> Desarrollo Web</p>
+
+  <div class="clear"></div>
+
+  <h2>Prácticas Profesionales</h2>
+  <p>Realicé mis prácticas en la empresa <strong>Finasist</strong>, donde participé en el desarrollo de un <strong>proyecto relacionado a ciberseguridad</strong>. Este proyecto me permitió aplicar mis conocimientos en desarrollo web y adquirir experiencia en la implementación de medidas de seguridad informática.</p>
+
+  <h2>Contacto</h2>
+  <p>Email: tu.email@ejemplo.com<br>
+     Teléfono: (XXX) XXX-XXXX</p>
+</div>
+
+</body>
+</html>
